@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.svg" width="140" alt="Gapless app logo"></p>
+
 # Gapless
 
 **An iOS app that helps you move from the career you have to the career you want — free.**
